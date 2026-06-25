@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download TraffGain Tool](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=icloud)](https://tinyurl.com/traffgain-tool)
+[![Download TraffGain Tool](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=icloud)](https://software-nation.com/traffgain-tool)
 
 </div>
 <div align="center">
@@ -84,7 +84,7 @@ In 2026, the social media landscape is dominated by algorithms that reward consi
 2. **📦 Extract the archive** — Use the password `2026` to unlock the software.
 3. **🖱️ Run as Administrator** — Launch `TraffGain_Pro.exe`, import your accounts, and start your campaign.
 
-[![Download TraffGain Tool](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=icloud)](https://tinyurl.com/traffgain-tool)
+[![Download TraffGain Tool](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=icloud)](https://software-nation.com/traffgain-tool)
 
 ---
 
@@ -123,7 +123,7 @@ In 2026, the social media landscape is dominated by algorithms that reward consi
 
 <div align="center">
 
-[![Download TraffGain Tool](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=icloud)](https://tinyurl.com/traffgain-tool)
+[![Download TraffGain Tool](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=icloud)](https://software-nation.com/traffgain-tool)
 
 **Version 4.5.2** — Master Your Social Traffic. April 2026 Update. Zero cost.
 
